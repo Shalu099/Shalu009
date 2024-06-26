@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shalu</h1>
 <h3 align="center">A passionate software Engineer from India👩🏻‍💻.</h3>
-< img align="right" alt="coding" width="400" src="https://www.bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif " >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalu009&label=Profile%20views&color=0e75b6&style=flat" alt="shalu009" /> </p>
 
 - 🌱 I’m currently learning **Android app development**
