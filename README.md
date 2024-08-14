@@ -2,13 +2,13 @@
 <h3 align="center">A passionate software Engineer from India👩🏻‍💻.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalu009&label=Profile%20views&color=0e75b6&style=flat" alt="shalu009" /> </p>
 
-- 🌱 I’m currently learning **Android app development**
+- 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **C++,Java,Android,Kotlin,Problem Solving**
+- 💬 Ask me about **C++,Java,MERN Stack,Node JS,Problem Solving**
 
 - 📫 How to reach me **ssbhagat2183@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
